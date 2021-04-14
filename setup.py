@@ -6,5 +6,5 @@ setup(
     version='0.1.0',
     description='A project to detect faulty wafers',
     author='Genius Code',
-    license='MIT',
+    license='MIT'
 )
